@@ -1,7 +1,7 @@
 # Perfect Number Finder
 
 ## Background
-A number n is considered perfect if the sum of its proper divisors equals n. For example, the proper divisors of 6 are 1, 2, and 3, and 1 + 2 + 3 = 6. 
+A number <b>n</b> is considered perfect if the sum of its proper divisors equals <b>n</b>. For example, the proper divisors of 6 are 1, 2, and 3, and 1 + 2 + 3 = 6. 
 <pre><b>Examples:
 6: Divisors are 1, 2, 3, and 6. 1 + 2 + 3 = 6. 
 28: Divisors are 1, 2, 4, 7, 14, and 28. 1 + 2 + 4 + 7 + 14 = 28. 

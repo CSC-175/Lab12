@@ -7,7 +7,7 @@ A number <b>n</b> is considered perfect if the sum of its proper divisors equals
 28: Divisors are 1, 2, 4, 7, 14, and 28. 1 + 2 + 4 + 7 + 14 = 28. </b></pre>  
 
 ## Directions
-Write a program that will find all of the perfect numbers in the range from 1 to 10000 and print them to the screen. 
+Write a program that will find all of the perfect numbers up to 10000 and print them to the screen. 
 You should use a nested loop structure to solve this problem.
 The correct output will look like the test case output shown below.
 

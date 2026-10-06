@@ -11,6 +11,13 @@ Write a program that will find all of the perfect numbers up to 10000 and print 
 You should use a nested loop structure to solve this problem.
 The correct output will look like the test case output shown below.
 
+## Pseudo Code
+<pre><b>Outer loop: check all possible integers N from 2 to 10000, inclusive.
+Initialize SUM to 0.
+Inner loop: check all possible integers K from 1 to N-1. 
+ if number K is a proper divisors, add it to SUM.			
+After outer loop exits check if SUM equals N and print if true.</b></pre>  
+
 ## Interface Prototype Example
 
 ### Test Case Output
